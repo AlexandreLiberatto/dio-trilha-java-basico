@@ -1,4 +1,3 @@
-```markdown
 # Conta Terminal
 
 ## Descrição
@@ -13,7 +12,7 @@ Siga as instruções abaixo para compilar e executar o programa em sua máquina 
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+
 
 2. **Navegue até o diretório do projeto:**
 
